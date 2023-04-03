@@ -4,7 +4,7 @@ What's up? hey\|you
 
 I am an awesome student at Lehigh, you should hire me!
 
-About Me: [Name of Link](URL)
+[Name of Link](URL)
 ---
 
 ## Portfolio
