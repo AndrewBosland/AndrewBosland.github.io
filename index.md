@@ -11,7 +11,7 @@ I am an awesome student at Lehigh, you should hire me!
 
 <!-- You can link to other websites, PDFs in this repo, and other pages in this repo -->
 
-_**[Natural language processing 10-Ks to identify risks](midterm_summary)**_
+_**[Contextual Sentiment in 10-Ks effect on cumulative stock returns](report.md)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
