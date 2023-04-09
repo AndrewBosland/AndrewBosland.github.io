@@ -1,8 +1,6 @@
 ## About Me
 
-What's up? hey\|you
-
-I am an awesome student at Lehigh, you should hire me!
+Hi there! I am Andrew Bosland, a current senior at Lehigh University studying Finance and BIS. Upon graduation I working at Alavarez & Marsal as a Valuation Associate in NYC. I previously interned at Blackrock within Data and AI and before that at Cerberus Captial Management, specifically in the Cerberus Operations and Advisory Company (COAC). In my free time I enjoy surfing, playing video games and watching sports.
 
 [Name of Link](URL)
 ---
