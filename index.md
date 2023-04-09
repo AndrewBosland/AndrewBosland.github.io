@@ -10,8 +10,6 @@ Hi there! I am Andrew Bosland, a current senior at Lehigh University studying Fi
 
 _**[Contextual Sentiment in 10-Ks effect on cumulative stock returns](report/report.md)**_
 
-<img src="output/scatterplot.png"/>
-
 ---
 
 _**[Regression Practice](Regression_practice)**_
