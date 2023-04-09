@@ -2,7 +2,6 @@
 
 Hi there! I am Andrew Bosland, a current senior at Lehigh University studying Finance and BIS. Upon graduation I working at Alavarez & Marsal as a Valuation Associate in NYC. I previously interned at Blackrock within Data and AI and before that at Cerberus Captial Management, specifically in the Cerberus Operations and Advisory Company (COAC). In my free time I enjoy surfing, playing video games and watching sports.
 
-[Name of Link](URL)
 ---
 
 ## Portfolio
@@ -11,9 +10,7 @@ Hi there! I am Andrew Bosland, a current senior at Lehigh University studying Fi
 
 _**[Contextual Sentiment in 10-Ks effect on cumulative stock returns](report/report.md)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="output/scatterplot.png"/>
 
 ---
 
