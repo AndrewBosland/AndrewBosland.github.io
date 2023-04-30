@@ -14,7 +14,7 @@ _**[Contextual Sentiment in 10-Ks effect on cumulative stock returns](report/rep
 
 ---
 
-_**[Regression](https://github.com/LeDataSciFi/asgn-06-AndrewBosland/blob/main/regression.ipynb)**_
+_**[Regression](report/regression.md)**_
 
 ---
 
