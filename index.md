@@ -28,7 +28,7 @@ _**[Eventual team project](https://donbowen.github.io/teamproject/)**_
 
 ## Career Objectives
 
-I hope to learn as much as possible early on in my career as an analyst/associate, by asking questions and going above and beyond, so I can use this knowledge to expand my horizons and hopefully arrive at my end goal of working in leadership at a large firm. I have always been interested in the relationship/people side of business and I believe this is the best route to achieve that.
+I hope to learn as much as possible early on in my career as an analyst/associate, by asking questions and going above and beyond. I will use this knowledge to expand my horizons and hopefully arrive at my end goal of working in leadership at a large firm. I have always been interested in the relationship/people side of business and I believe this is the best route to achieve that.
 
 ---
 
