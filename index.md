@@ -18,10 +18,11 @@ _**[Regression](report/regression.md)**_
 
 ---
 
-_**[Eventual team project](https://donbowen.github.io/teamproject/)**_
+_**[Sea Level Rise Affect on Coastal housing Prices](https://williamroth82.github.io/BozandtheBozzers/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/PredPrice.png?raw=true"/>
 
+<img src="images/LogPredPrice.png?raw=true"/>
 ---
 
 ## Career Objectives
