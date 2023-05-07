@@ -22,6 +22,7 @@ _**[Sea Level Rise Affect on Coastal housing Prices](https://williamroth82.githu
 
 <img src="images/PredPrice.png?raw=true"/>
 
+
 <img src="images/LogPredPrice.png?raw=true"/>
 ---
 
